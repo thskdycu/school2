@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width ,initial scale 1.0">
+   <title>poésie l'ordinateur</title>
+  </head>
+ <body>
+  <style type="text/css">
+    body {
+      background-image: url('background2.jpg');
+      background-repeat: no-repeat;
+      background-position:center;
+      background-size:cover;
+      background-attachment:fixed;
+    }
+   
+  </style>
+   
+   
+   <h1 style="color:rgb(59, 59, 255);text-align: center;">la poésie:l'ordinateur</h1>
+  
+  
+   <a style="font-size:20px;"href="https://www.youtube.com/watch?v=6mL96-L1mlU">Clicker sur cette phrase pour la poésie.</a>
+ 
+ 
+ <h3 style=color:blue>site fabriqué par <mark style="background-color:blue;color:red">ilyas lazir</mark></h3>
+  
+  <h5 style=color:purple>video fabriqué par <mark style="background-color:purple;color:cyan">zoubida belkis</mark></h5>
+  
+  
+  </body>
+</html>
